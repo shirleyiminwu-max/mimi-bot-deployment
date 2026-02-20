@@ -17,6 +17,8 @@
 
 ## 🎯 快速開始
 
+> 💡 **第一次使用？** 建議先閱讀 [📚 快速入門指南](GETTING_STARTED.md)，有詳細的第一步教學！
+
 ### 前置需求
 
 - ✅ Google Cloud 帳號（新用戶有 $300 免費額度）
@@ -80,6 +82,7 @@ bash <(curl -s https://raw.githubusercontent.com/shirleyiminwu-max/mimi-bot-depl
 
 ## 📚 完整文件
 
+- 🚀 [快速入門指南](GETTING_STARTED.md) - **新手必讀！第一步詳細教學**
 - 📖 [詳細部署指南](DEPLOYMENT_GUIDE.md) - 逐步說明和截圖
 - 🆘 [故障排除指南](TROUBLESHOOTING.md) - 常見問題解決方案
 - 🔧 [進階配置指南](ADVANCED_CONFIG.md) - 自訂功能和優化
