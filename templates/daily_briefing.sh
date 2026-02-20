@@ -1,7 +1,7 @@
 #!/bin/bash
 # Mimi Bot 每日簡報腳本
 # 此腳本由 cron 每天早上 6:00 執行
-# 功能：發送包含舊金山新聞、科技頭條和日曆事件的每日簡報
+# 功能：發送包含台北市士林北投區新聞、科技頭條和日曆事件的每日簡報
 
 set -e  # 遇到錯誤立即退出
 
@@ -44,8 +44,8 @@ PROMPT="你好 Mimi！今天是 ${CURRENT_DATE}（${WEEKDAY}）。
 
 🌅 **早安！今天是 ${CURRENT_DATE}**
 
-🌁 **舊金山當地新聞**（2-3 則最新消息）
-[使用 web search 搜尋 San Francisco local news]
+🏙️ **台北市士林北投區當地新聞**（2-3 則最新消息）
+[使用 web search 搜尋 Taipei Shilin Beitou local news]
 
 💻 **科技產業頭條**（2-3 則重要新聞）
 [使用 web search 搜尋 tech news technology headlines]

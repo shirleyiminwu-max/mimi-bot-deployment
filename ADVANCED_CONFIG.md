@@ -150,11 +150,11 @@ PROMPT="你好 Mimi！今天是 ${CURRENT_DATE}（${WEEKDAY}）。
 
 🌅 **早安！今天是 ${CURRENT_DATE}**
 
-🌤️ **舊金山今日天氣**
-[搜尋 San Francisco weather today]
+🌤️ **台北市士林北投區今日天氣**
+[搜尋 Taipei Shilin Beitou weather today]
 
-🌁 **舊金山當地新聞**（2-3 則）
-[搜尋 San Francisco local news]
+🏙️ **台北市士林北投區當地新聞**（2-3 則）
+[搜尋 Taipei Shilin Beitou local news]
 
 💻 **科技產業頭條**（2-3 則）
 [搜尋 tech news technology headlines]
@@ -186,7 +186,7 @@ PROMPT="你好 Mimi！今天是 ${CURRENT_DATE}。
 #### 範例 3：簡化版（僅新聞）
 
 ```bash
-PROMPT="今天是 ${CURRENT_DATE}。請用繁體中文提供 3 則舊金山最新新聞，簡潔呈現。"
+PROMPT="今天是 ${CURRENT_DATE}。請用繁體中文提供 3 則台北市士林北投區最新新聞，簡潔呈現。"
 ```
 
 ### 建立多個簡報腳本
@@ -390,7 +390,7 @@ ${WEATHER}
 
 請用繁體中文整理以上天氣資訊，並提供：
 1. 今日天氣概況
-2. 舊金山新聞 (2則)
+2. 台北市士林北投區新聞 (2則)
 3. 科技頭條 (2則)
 4. 日曆事件
 

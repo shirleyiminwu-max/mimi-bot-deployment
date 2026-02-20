@@ -157,7 +157,7 @@ gcloud compute instances create mimi-bot \
 ```
 
 **參數說明**：
-- `--zone=us-west1-a`：舊金山區域（適合美西用戶）
+- `--zone=us-west1-a`：美國西岸區域（或選擇離台北較近的 asia-east1）
 - `--machine-type=e2-micro`：免費層級的機器類型
 - `--image-family=ubuntu-2204-lts`：Ubuntu 22.04 LTS
 - `--boot-disk-size=20GB`：20GB 儲存空間
